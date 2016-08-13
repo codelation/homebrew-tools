@@ -8,6 +8,7 @@ class CodelationCli < Formula
   bottle :unneeded
 
   depends_on "bdw-gc"
+  depends_on "libevent"
 
   def install
     bin.install "codelation"
