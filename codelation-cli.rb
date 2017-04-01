@@ -3,7 +3,7 @@ class CodelationCli < Formula
   homepage "https://github.com/codelation/codelation-cli"
   url "https://github.com/codelation/codelation-cli/releases/download/v2.0.0/codelation-2.0.0.tar.gz"
   sha256 "2a6a6ddca252fc5aab63e44d2f2a1bc881ddd25469405b0c6d6b42cc80a9cbdf"
-  version "0.4.0"
+  version "2.0.0"
 
   bottle :unneeded
 
