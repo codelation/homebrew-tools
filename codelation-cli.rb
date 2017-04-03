@@ -1,9 +1,9 @@
 class CodelationCli < Formula
   desc "Command line tool for Codelation development tasks."
   homepage "https://github.com/codelation/codelation-cli"
-  url "https://github.com/codelation/codelation-cli/releases/download/v2.0.1/codelation-2.0.1.tar.gz"
-  sha256 "e29674e96eacb531108b7eb0a20491b09c70b2bee3a54adb5195f9a2fc4e697a"
-  version "2.0.1"
+  url "https://github.com/codelation/codelation-cli/releases/download/v2.0.2/codelation-2.0.2.tar.gz"
+  sha256 "d7de1d35fb69f0689bc2663c1b8d43ca7434f576af1d268c3054efa751d8db6e"
+  version "2.0.2"
 
   bottle :unneeded
 
